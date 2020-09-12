@@ -6,11 +6,11 @@ Data scientist love building Shiny apps. It lets you create an interactive dashb
 
 This tutorial consists of demos and practical session which you can work on your own. There are 3 lessons in this tutorial:
 
-1. Learning the basic of Bokeh
+1. Learning the basics of Bokeh
 2. Learning how to create interactivity in Bokeh
 3. How to construct an app
 
-At the end you are encouraged to finish a mini-project by yourslef or in groups.
+At the end you are encouraged to finish a mini-project by yourself or in groups.
 
 This tutorial is for anyone who is interested in making an interactive dashboard in Jupyter notebook. You are expected to be able to code in basic Python and basic Javascript in Jupyter notebook environment.
 
