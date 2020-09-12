@@ -1,4 +1,4 @@
-# Shiny App in Python? Bokeh + Jupyter notebook
+# Shiny App in Python? Bokeh + Jupyter notebook [![Gitter](https://badges.gitter.im/jupytercon-2020-Cheukting/community.svg)](https://gitter.im/jupytercon-2020-Cheukting/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ![linear app](https://github.com/jupytercon/2020-Cheukting/raw/master/images/line_reg.gif)
 
@@ -33,6 +33,10 @@ Bokeh is an interactive visualization library for modern web browsers. Plus it w
 ## Gitter Community
 
 Since you are encourage to discuss and work in groups, we have a [Gitter community](https://gitter.im/jupytercon-2020-Cheukting/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link) open. Please respect each other and follow the [NumFOCUS Code of Conduct](https://numfocus.org/code-of-conduct) ther as well.
+
+## Reference
+
+The Pokemon data is from https://gist.github.com/armgilles/194bcff35001e7eb53a2a8b441e8b2c6 which is sourced from CC data.
 
 ---
 
