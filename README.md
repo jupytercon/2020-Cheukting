@@ -1,3 +1,41 @@
+# Shiny App in Python? Bokeh + Jupyter notebook
+
+![linear app](https://github.com/jupytercon/2020-Cheukting/raw/master/images/line_reg.gif)
+
+Data scientist love building Shiny apps. It lets you create an interactive dashboard without the complexity of handling javascript or HTML. It also integrates well with other tools for data science as well. If you code in Python and you love Jupyter notebook, I will teach you how to make a “Shiny app” in Jupyter notebook with Python using Bokeh.
+
+This tutorial consists of demos and practical session which you can work on your own. There are 3 lessons in this tutorial:
+
+1. Learning the basic of Bokeh
+2. Learning how to create interactivity in Bokeh
+3. How to construct an app
+
+At the end you are encouraged to finish a mini-project by yourslef or in groups.
+
+This tutorial is for anyone who is interested in making an interactive dashboard in Jupyter notebook. You are expected to be able to code in basic Python and basic Javascript in Jupyter notebook environment.
+
+## What is Bokeh
+
+Bokeh is an interactive visualization library for modern web browsers. Plus it works very well in Jupyter notebooks. It provides elegant, concise construction of versatile graphics, and affords high-performance interactivity over large or streaming datasets. Bokeh can help anyone who would like to quickly and easily make interactive plots, dashboards, and data applications.
+
+## Prerequisite
+
+* basic knowledge of Python
+* basic knowledge of Pandas
+* basic knowledge of JavaScript
+
+## Goal
+
+* learn how to use Bokeh to make plots
+* learn how to use Bokeh to create interactive apps in Jupyter notebook
+* Have fun
+
+## Gitter Community
+
+Since you are encourage to discuss and work in groups, we have a [Gitter community](https://gitter.im/jupytercon-2020-Cheukting/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link) open. Please respect each other and follow the [NumFOCUS Code of Conduct](https://numfocus.org/code-of-conduct) ther as well.
+
+---
+
 # JupyterCon Tutorial
 
 [JupyterCon](https://jupytercon.com) will use this template to create a new repository for each tutorial, with speakers added as collaborators. 
